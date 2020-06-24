@@ -1,2 +1,2 @@
 # alienware
-My first web project
+My first web project and I was bit confused in making it responsive and yeah, this is currently non-responsive.
